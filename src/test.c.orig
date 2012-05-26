@@ -2,8 +2,11 @@
 int main(void)
 {
 	int a = 0;
-	int b = 2;
+<<<<<<< HEAD
 	int c = 3;
+=======
+	int b = 1;
+>>>>>>> 08e707b04405e16090c43b76c8be2467345a1315
 	printf("hello world");
 	return 0;
 }
